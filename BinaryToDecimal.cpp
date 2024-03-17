@@ -1,10 +1,9 @@
 /*convert binary to decimal*/ 
 #include <iostream>
 #include <cmath>
-
 using namespace std;
 
-/*Create options*/
+/*Declare options*/
 chrOption1 = '1';
 chrOption2 = '2';
 /*Request their option*/
@@ -57,6 +56,4 @@ for(i=i-1 ;i>=0 ;i--)
 cout<<a[i];    
 }    
 }
-
-
 }  
